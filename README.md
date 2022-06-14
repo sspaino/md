@@ -1,4 +1,4 @@
-### This code based on surfacing-hopping and zhu-nakamura
+### This code based on surfacing-hopping and zhu-nakamura, and it just for CI not ISC
 #### Tere are three interface can be used
 ##### 1.molpro-casscf
 ##### 2.gaissian-tddft(not completed)
